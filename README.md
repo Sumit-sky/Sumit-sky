@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on StayPedia (HMS)<br>👯 I’m looking to collaborate on any kind of Web Development Projects<br>🌱 I’m currently learning Java & DSA<br>💬 Ask me about anything<br>⚡ Fun fact - The more you know, the less it feels
+🔭 I’m currently working on StayPedia (HMS)<br>👯 I’m looking to collaborate on any kind of Web Development Projects<br>🌱 I’m currently learning Java & DSA<br>💬 Ask me about ReactJS, Java, JS and NodeJS<br>⚡ Fun fact - The more you know, the less it feels
 
 
 ## 🌐 Socials:
